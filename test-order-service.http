@@ -1,7 +1,7 @@
 # Test the order-service
 
 ### Place an order
-POST http://localhost:3000/orders
+POST https://order-service-lab3-app-djdncwhvhrdaacb9.westus-01.azurewebsites.net/orders
 Content-Type: application/json
 
 {
